@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertitore di Temperatura</string>
+    <string name="temperature">Temperatura</string>
+    <string name="insert_temp_msg">Inserisci un valore di temperatura</string>
+    <string name="from_to_temp">Da °C a °F</string>
+</resources>
